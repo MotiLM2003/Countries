@@ -1,5 +1,7 @@
 body {
   background: turquoise;
+  display: flex;
+  justify-content: center;
 }
 .App {
   text-align: center;
